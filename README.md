@@ -9,5 +9,5 @@
 * It first reads the number of students, their column names, and calculates the average of marks by summing up marks and dividing by the number of students. 
 * The script then logs the result to two decimal places using the logging module.
 # **3. `read_student_marks()`**
--This Python script defines a function read_student_marks() to read student names and their marks.
--It prompts the user to input the number of students, their names, and marks. Then, it computes the average marks for a queried -student's name by extracting their marks from the dictionary.
+- This Python script defines a function read_student_marks() to read student names and their marks.
+- It prompts the user to input the number of students, their names, and marks. Then, it computes the average marks for a queried -student's name by extracting their marks from the dictionary.
