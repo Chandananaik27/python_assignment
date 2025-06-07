@@ -11,7 +11,7 @@
 # **3. `read_student_marks()`**
 - This Python script defines a function read_student_marks() to read student names and their marks.
 - It prompts the user to input the number of students, their names, and marks. Then, it computes the average marks for a queried -student's name by extracting their marks from the dictionary.
-- # **4. `floor_ceil_rint()`**Add commentMore actions
+# **4. `floor_ceil_rint()`**
 
 - This Python script defines a function `floor_ceil_rint()` to perform floor, ceil, and round operations on an input array using NumPy.
 - It reads a space-separated input and converts it into a NumPy array of floats. Then, it calculates the floor, ceil, and rounded values of the array elements.
