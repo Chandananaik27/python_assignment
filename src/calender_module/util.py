@@ -3,7 +3,7 @@ import datetime
 import logging
 logging.basicConfig(level=logging.DEBUG, format="%(message)s")
 
-def calendar_module():
+def calendar_module(date_str):
     date_str = input("Enter a date (MM-DD-YEAR): ")
 
     month, day, year = map(int, date_str.split('-'))
