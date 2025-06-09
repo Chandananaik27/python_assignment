@@ -5,7 +5,7 @@ from datetime import datetime
 
 
 # Complete the time_delta function below.
-def time_delta():
+def time_delta(t1,t2):
     t = int(input("Enter the number of test cases: "))
 
     for t_itr in range(t):
